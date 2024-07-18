@@ -71,7 +71,7 @@ CREATE TABLE `border_officers` (
 --
 
 INSERT INTO `border_officers` (`officer_id`, `first_name`, `last_name`, `username`, `password`, `email`, `phone_number`, `station`, `hire_date`, `status`) VALUES
-(1, 'Amalda', 'Patrick', 'amalda', 'Amalda@123', 'amaldapatrick@gmail.com', '9562290332', 'Karnataka - Thalappuzha Checkpost', '2024-05-27', 'active'),
+(1, 'Amalda', 'Patrick', 'amalda', 'Amalda@123', 'amalda@gmail.com', '7896541235', 'Karnataka - Thalappuzha Checkpost', '2024-05-27', 'active'),
 (2, 'Augusto', 'Simon', 'augusto', 'augusto@123', 'augusto@gmail.com', '7536542369', 'Tamil Nadu - Walayar Checkpost', '2024-05-27', 'active'),
 (3, 'Rohan', 'Sujith', 'rohan', '75395', 'xxx@ggmail.com', '9512365478', 'Karnataka - Muthanga Checkpost', '2024-05-28', 'active'),
 (4, 'Anoop', 'Thomas', 'anoop', 'anoop', 'anoop@123', '7891236547', 'Tamil Nadu - Kaliyakkavilai Checkpost', '2024-05-28', 'active');
